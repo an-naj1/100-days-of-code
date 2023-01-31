@@ -19,3 +19,13 @@
 **Link(s) to work**:
 1. https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-69
 2. https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-19
+
+
+### Day 3: January 31, Tuesday
+
+**Today's Progress**: Completed the project Learn Basic CSS by building a Cafe menu.
+
+**Thoughts**: Very excited to move more forward. Finishing the 2nd project gave me so much knowledge and satisfaction.
+
+**Link(s) to work**:
+1. https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-91

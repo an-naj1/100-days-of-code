@@ -29,3 +29,14 @@
 
 **Link(s) to work**:
 1. https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-91
+
+
+### Day 4: February 2, Thursday
+
+**Today's Progress**: Started the new project Learn CSS colors by building a set of Colored Markers and reached step 55.
+
+**Link(s) to work**:
+1. https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-colors-by-building-a-set-of-colored-markers/step-55
+
+
+

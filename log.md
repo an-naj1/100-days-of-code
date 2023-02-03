@@ -39,4 +39,13 @@
 1. https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-colors-by-building-a-set-of-colored-markers/step-55
 
 
+### Day 5: February 3, Friday
+
+**Today's Progress**: Finished project Learn CSS colors by building a set of Colored Markers and started with the new challenge Learn HTML forms by building a registration form.
+
+**Link(s) to work**:
+1. https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-colors-by-building-a-set-of-colored-markers/step-94
+2. https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-forms-by-building-a-registration-form/step-2
+
+
 

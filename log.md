@@ -56,3 +56,11 @@
 1. https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-forms-by-building-a-registration-form/step-63
 
 
+### Day 7: February 5, Sunday
+
+**Today's Progress**: Started the certification challenge: Build a Survey form.
+
+**Link(s) to work**: 
+1. https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form
+
+

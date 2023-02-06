@@ -64,3 +64,9 @@
 1. https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form
 
 
+### Day 8: February 6, Monday
+
+**Today's Progress**: Continuing with the certification challenge: Build a Survey form.
+
+**Link(s) to work**:
+1. https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form

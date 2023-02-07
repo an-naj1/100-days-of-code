@@ -70,3 +70,11 @@
 
 **Link(s) to work**:
 1. https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form
+
+
+### Day 9: February 7, Tuesday
+
+**Today's Progress**: Continuing with the certification challenge: Build a Survey form.
+
+**Link(s) to work**:
+1.  https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form

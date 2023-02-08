@@ -82,7 +82,11 @@
 
 ### Day 10: February 8, Wednesday
 
-**Today's Progress**: Finished the certification challenge: Build a Survey form. Started with new project: Learn the CSS Model by buildig a Rothko Painting 
+**Today's Progress**: Finished the certification challenge: Build a Survey form. Started with new project: Learn the CSS Model by buildig a Rothko Painting. 
+Commpleted the project: Learn the CSS Model by buildig a Rothko Painting.
+
+**Thoughts**: Was very disappointed beacause of not being able to finish the 1st challenge since days. At last, found a ray of hope by finishing it today thus giving the realization that I should understand, give more focus and work more harder while building projects. Then I started with new project and very happy to finish it in one go.  
 
 **Link(s) to work**:
 1. https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form
+2. https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-the-css-box-model-by-building-a-rothko-painting/step-45

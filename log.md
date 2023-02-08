@@ -78,3 +78,11 @@
 
 **Link(s) to work**:
 1.  https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form
+
+
+### Day 10: February 8, Wednesday
+
+**Today's Progress**: Finished the certification challenge: Build a Survey form. Started with new project: Learn the CSS Model by buildig a Rothko Painting 
+
+**Link(s) to work**:
+1. https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form

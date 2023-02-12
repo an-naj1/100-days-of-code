@@ -98,3 +98,11 @@ Commpleted the project: Learn the CSS Model by buildig a Rothko Painting.
 
 **Link(s) to work**: 
 1. https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-by-building-a-photo-gallery/step-21
+
+
+
+### Day 12: February 12, Sunday
+
+**Today's Progress**: Started with new project: Learn typography by building a nutirition label and reached step 37.
+
+**Link(s) to work**:https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-typography-by-building-a-nutrition-label/step-37

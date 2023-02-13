@@ -106,3 +106,10 @@ Commpleted the project: Learn the CSS Model by buildig a Rothko Painting.
 **Today's Progress**: Started with new project: Learn typography by building a nutirition label and reached step 37.
 
 **Link(s) to work**:https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-typography-by-building-a-nutrition-label/step-37
+
+
+**### Day 13: February 13, Monday
+
+**Today's Progress**: Finished the project: Learn typography by building a nutirition label.
+
+**Link(s) to work**: https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-typography-by-building-a-nutrition-label/step-67

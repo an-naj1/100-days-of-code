@@ -113,3 +113,10 @@ Commpleted the project: Learn the CSS Model by buildig a Rothko Painting.
 **Today's Progress**: Finished the project: Learn typography by building a nutirition label.
 
 **Link(s) to work**: https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-typography-by-building-a-nutrition-label/step-67
+
+
+**### Day 14: February 14, Tuesday
+
+**Today's Progress**: Started the project: Learn accessibility by building a Quiz and reached step 15.
+
+**Link(s) to work**: https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz/step-15

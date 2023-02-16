@@ -120,3 +120,12 @@ Commpleted the project: Learn the CSS Model by buildig a Rothko Painting.
 **Today's Progress**: Started the project: Learn accessibility by building a Quiz and reached step 15.
 
 **Link(s) to work**: https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz/step-15
+
+
+
+**### Day 15: February 15, Wednesday
+
+**Today's Progress**: Resuming the project: Learn accessibility by building a Quiz and reached step 35.
+
+**Link(s) to work**:
+https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz/step-35

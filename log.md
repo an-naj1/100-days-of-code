@@ -140,3 +140,11 @@ Commpleted the project: Learn the CSS Model by buildig a Rothko Painting.
 
 **Link(s) to work**:
 1. https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz/step-68
+
+
+### Day 17: February 21, Tuesday
+
+**Today's Progress**: Started and Finished the certification project: Tribute Page.
+
+**Link(s) to work**:
+1. https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page

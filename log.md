@@ -148,3 +148,11 @@ Commpleted the project: Learn the CSS Model by buildig a Rothko Painting.
 
 **Link(s) to work**:
 1. https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page
+
+
+### Day 18: February 22, Wednesday
+
+**Today's Progress**: Started the project: Learn More About CSS Pseudo Selectors By Building A Balance Sheet
+
+**Link(s) to work**:
+1. https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-more-about-css-pseudo-selectors-by-building-a-balance-sheet/step-12

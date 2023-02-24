@@ -164,3 +164,11 @@ Commpleted the project: Learn the CSS Model by buildig a Rothko Painting.
 
 **Link(s) to work**: 
 1. https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-more-about-css-pseudo-selectors-by-building-a-balance-sheet/step-65
+
+
+### Day 20: February 24, Friday
+
+**Today's Progress**: Started the project: learn-intermediate-css-by-building-a-picasso-painting and reached step 22
+
+**Link(s) to work**:
+1. https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-intermediate-css-by-building-a-picasso-painting/step-22

@@ -180,3 +180,11 @@ Commpleted the project: Learn the CSS Model by buildig a Rothko Painting.
 
 **Link(s) to work**:
 1. https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-intermediate-css-by-building-a-picasso-painting/step-60
+
+
+### Day 22: March 1, Wednesday
+
+**Today's Progress**: Finishe the project learn-intermediate-css-by-building-a-picasso-painting and started new project learn-responsive-web-design-by-building-a-piano and reached step 5
+
+**Link(s) to work**:
+1. https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-responsive-web-design-by-building-a-piano/step-5
